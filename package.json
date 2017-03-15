@@ -1,0 +1,40 @@
+{
+  "name": "diplomacy-artificial-player",
+  "version": "0.1.5",
+  "description": "",
+  "scripts": {
+    "prepublish": "gulp compile-src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarmaMi/diplomacy-artificial-player.git"
+  },
+  "keywords": [
+    "diplomacy"
+  ],
+  "author": "karmami",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KarmaMi/diplomacy-artificial-player/issues"
+  },
+  "devDependencies": {
+    "@alrra/travis-scripts": "^3.0.1",
+    "@types/chai": "^3.4.34",
+    "@types/mocha": "^2.2.39",
+    "chai": ">=4.0.0-canary.1",
+    "gulp": "^3.9.1",
+    "gulp-mocha": "^3.0.1",
+    "gulp-sourcemaps": "^2.4.1",
+    "gulp-typedoc": "^2.0.2",
+    "gulp-typescript": "^3.1.4 ",
+    "gulp-util": "^3.0.8",
+    "merge2": "^1.0.3",
+    "mocha": "^3.2.0",
+    "typedoc": "^0.5.5",
+    "typescript": "^2.1.6"
+  },
+  "homepage": "https://github.com/KarmaMi/diplomacy-artificial-player#readme",
+  "dependencies": {
+    "js-diplomacy": "^0.1.5"
+  }
+}
