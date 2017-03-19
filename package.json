@@ -1,6 +1,6 @@
 {
   "name": "diplomacy-artificial-player",
-  "version": "0.1.5",
+  "version": "0.0.0",
   "description": "",
   "scripts": {
     "prepublish": "gulp compile-src"
@@ -35,6 +35,6 @@
   },
   "homepage": "https://github.com/KarmaMi/diplomacy-artificial-player#readme",
   "dependencies": {
-    "js-diplomacy": "^0.1.5"
+    "js-diplomacy": "^0.2.0"
   }
 }
